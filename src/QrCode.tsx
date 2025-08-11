@@ -7,7 +7,7 @@ const QrCode: React.FC = () => {
       <div className="card">
         <div className="QR-code"></div>
         <div className="text-content">
-          <img src="./image/image-qr-code.png" />
+          <img src="./assets/image-qr-code.png" />
           <h2 className="main-text">
             Improve your frontend skills by building projects
           </h2>
